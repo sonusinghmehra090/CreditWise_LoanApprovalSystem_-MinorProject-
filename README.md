@@ -1,7 +1,7 @@
-## Build and end-to-end supervised ML pipeline using Random Forest , Decision Tree , Logistic regression to Predict Loan approval.Implemented Binary classification along with EDA , feature engineering & model evalution (precision,recall,f1)
+## Build and end-to-end supervised ML pipeline using Random Forest , Decision Tree , Logistic regression to Predict Loan approval.Implemented Binary classification along with EDA , feature engineering & model evalution (precision,recall,f1).
 
 ## ⏬Model desciprtion:
-Dataset contain 1000 real life samples with 20 features
+Dataset contain 1000 real life samples with 20 features.
 
 # ⬇️Model transformation with :
 1. Handling Null values
